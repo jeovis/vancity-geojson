@@ -24,6 +24,5 @@ NAD83 (CSRS). KML, CSV, and XLS formatted data are in latitude and longitude
 
 ## Data set details
   1. [Bikeways data (DWG)](ftp://webftp.vancouver.ca/OpenData/dwg/bikeways.dwg)
-  2. [Bikeways data (KML)](../download/kml/bikeways.kmz) ![kml file](../images/Icon_kml.gif)
-  3. [Bikeways (SHP)](ftp://webftp.vancouver.ca/OpenData/shape/bikeways_shp.zip) ![Shape file \(SHP\)](../images/icon_shape.jpg)
-
+  2. [Bikeways data (KML)](../download/kml/bikeways.kmz)
+  3. [Bikeways (SHP)](ftp://webftp.vancouver.ca/OpenData/shape/bikeways_shp.zip)
