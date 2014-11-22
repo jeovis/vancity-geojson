@@ -23,6 +23,6 @@ NAD83 (CSRS). KML, CSV, and XLS formatted data are in latitude and longitude
 (WGS84). Not all CSV and XLS files have latitude and longitude
 
 ## Data set details
-  1. [Bikeways data](ftp://webftp.vancouver.ca/OpenData/dwg/bikeways.dwg) - DWG
-  2. [Bikeways data (KML)](../download/kml/bikeways.kmz)
-  3. [Bikeways](ftp://webftp.vancouver.ca/OpenData/shape/bikeways_shp.zip) - SHP
+* [Bikeways data](ftp://webftp.vancouver.ca/OpenData/dwg/bikeways.dwg) - DWG
+* [Bikeways data (KML)](../download/kml/bikeways.kmz)
+* [Bikeways](http://webftp.vancouver.ca/OpenData/shape/bikeways_shp.zip) - SHP
